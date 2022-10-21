@@ -7,6 +7,9 @@
   "website": "https://github.com/Neeraj-x0/x-asena",
   "success_url": "https://github.com/aabot78/X-Electra-X-Asena",
   "stack": "container",
+  "addons": [{ 
+    "plan": "heroku-postgresql"
+  }],
   "env": {
     "ANTI_LINK": {
       "description": "true/false",
