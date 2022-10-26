@@ -5,7 +5,7 @@
   "keywords": ["whatsapp"],
   "repository": "https://github.com/Neeraj-x0/x-asena",
   "website": "https://github.com/Neeraj-x0/x-asena",
-  "success_url": "https://github.com/aabot78/X-Electra-X-Asena",
+  "success_url": "https://github.com/oguz162/X-Electra-X-Asena",
   "stack": "container",
   "addons": [{ 
     "plan": "heroku-postgresql"
